@@ -1,5 +1,4 @@
-Password Complexity Checker
-Overview
+Password Complexity Checker Overview
 This project is a Python-based Password Complexity Checker with an interactive GUI, developed as Task 3 for Prodigy Infotech. The tool assesses password strength based on various criteria and provides feedback and suggestions for strong passwords.
 
 Features
